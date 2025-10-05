@@ -1,0 +1,962 @@
+{
+  "administrative_structure": {
+    "total_zones": 15,
+    "total_wards": 200,
+    "expansion_plan": "20 zones by 2024-25",
+    "total_population": "79.53 lakh (2023 projection)",
+    "total_properties": "13.82 lakh"
+  },
+  "zones_complete": {
+    "Zone_1_Thiruvottiyur": {
+      "wards": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "ward_names": [
+        "Kathivakkam",
+        "Ennore",
+        "Ernavoor",
+        "Ajax",
+        "Tiruvottiyur",
+        "Kaladipet",
+        "Rajakadai",
+        "Kodungaiyur (West)",
+        "Kodungaiyur (East)",
+        "Dr. Radhakrishnan Nagar (North)",
+        "Cheriyan Nagar (North)",
+        "Jeeva Nagar (North)",
+        "Cheriyan Nagar (South)",
+        "Jeeva Nagar (South)"
+      ],
+      "assembly_constituency": "Thiruvottiyur",
+      "parliament_constituency": "Chennai North"
+    },
+    "Zone_2_Manali": {
+      "wards": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "ward_names": [
+        "Edyanchavadi",
+        "Kadapakkam",
+        "Theeyambakkam",
+        "Manali",
+        "Mathur",
+        "Sanjeevirayanpet",
+        "Grace Garden"
+      ],
+      "assembly_constituency": "Thiruvottiyur/Madhavaram/Ponneri",
+      "parliament_constituency": "Chennai North/Thiruvallur"
+    },
+    "Zone_3_Madhavaram": {
+      "wards": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "ward_names": [
+        "Kavankarai",
+        "Puzhal",
+        "Puthagram",
+        "Kathirvedu",
+        "Lakshmipuram \u2013 Madhavaram",
+        "Assisi Nagar 9th St",
+        "Chinnasekkadu",
+        "Madhavaram",
+        "Ma-Po-Si Nagar",
+        "Royapuram",
+        "Singarathottam",
+        "Narayanappa Thottam"
+      ],
+      "assembly_constituency": "Madhavaram",
+      "parliament_constituency": "Thiruvallur"
+    },
+    "Zone_4_Tondiarpet": {
+      "wards": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "ward_names": [
+        "Korukkupet",
+        "Mottai Thottam",
+        "Kumarasamy Nagar (South)",
+        "Dr. Radhakrishnan Nagar (South)",
+        "Kumarasamy Nagar (North)",
+        "Vijayaragavalu Nagar (West)",
+        "Tondiarpet",
+        "Old Washermenpet",
+        "Meenakshiammanpet",
+        "Kondithope",
+        "Sevenwells (North)",
+        "Amman Koil",
+        "Muthialpet",
+        "Vallalseethakathi Nagar",
+        "Kachaleeswarar Nagar"
+      ],
+      "assembly_constituency": "Perambur/RK Nagar/Royapuram",
+      "parliament_constituency": "Chennai North"
+    },
+    "Zone_5_Royapuram": {
+      "wards": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "ward_names": [
+        "Sevenwells (South)",
+        "Sowcarpet",
+        "Basin Bridge",
+        "Vyasarpet (South)",
+        "Vyasarpet (North)",
+        "Perambur (North)",
+        "Perambur (East)",
+        "Elango Nagar",
+        "Perambur (South)",
+        "Thiru-Vi-Ka Nagar",
+        "Wadia Nagar",
+        "Dr.Sathyavanimuthu Nagar",
+        "Pulianthope",
+        "Dr.Besant Nagar",
+        "Pedhunayakanpet"
+      ],
+      "assembly_constituency": "Perambur/Royapuram",
+      "parliament_constituency": "Chennai North"
+    },
+    "Zone_6_Thiru_Vi_Ka_Nagar": {
+      "wards": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "ward_names": [
+        "Perumal Koil Thottam",
+        "Thattankulam",
+        "Choolai",
+        "Poonga Nagar",
+        "Elephant Gate",
+        "Edapalayam",
+        "Agaram (North)",
+        "Sembiam",
+        "Siruvalloor",
+        "Nagammai Ammaiyar Nagar",
+        "Agaram (South)",
+        "Vidhudalai Gurusami Nagar",
+        "Ayanavaram",
+        "Nagammaiammaiyar Nagar (South)",
+        "Panneer Selvam Nagar"
+      ],
+      "assembly_constituency": "Thiru-Vi-Ka Nagar/Dr. Radhakrishnan Nagar",
+      "parliament_constituency": "Chennai Central"
+    },
+    "Zone_7_Ambattur": {
+      "wards": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "ward_names": [
+        "Maraimalai Adigal Nagar",
+        "Maraimalai Adigal Nagar (South)",
+        "Purasawalkam",
+        "Kolathur",
+        "Villiwakkam (North)",
+        "Villiwakkam (South)",
+        "Virugambakkam (North)",
+        "Anna Nagar (West)",
+        "Anna Nagar (Central)",
+        "Anna Nagar (East)",
+        "Shenoy Nagar",
+        "Kilpauk (North)",
+        "Gangadeeswarar Koil",
+        "Kilpauk (South)",
+        "Amanjikarai (North)"
+      ],
+      "assembly_constituency": "Ambattur/Villivakkam",
+      "parliament_constituency": "Chennai Central"
+    },
+    "Zone_8_Anna_Nagar": {
+      "wards": [
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "ward_names": [
+        "Amanjikarai (Central)",
+        "Amanjikarai (West)",
+        "Periyar Nagar (North)",
+        "Periyar Nagar (West)",
+        "Nungambakkam",
+        "Adikesavapuram",
+        "Nehru Nagar",
+        "Chintadripet",
+        "Komaleeswaranpet",
+        "Balasubramanya Nagar",
+        "Thiruvotteeswaranpet",
+        "Natesan Nagar",
+        "Chepauk",
+        "Zambazaar",
+        "Umaru Pulavar Nagar"
+      ],
+      "assembly_constituency": "Villivakkam/Egmore/Anna Nagar",
+      "parliament_constituency": "Chennai Central"
+    },
+    "Zone_9_Teynampet": {
+      "wards": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "ward_names": [
+        "Kannappar Nagar W(G)",
+        "Pattalam",
+        "Chetpet",
+        "Egmore",
+        "Pudupet",
+        "Ko-Su-Mani Nagar",
+        "Nakeerar Nagar",
+        "Thousand Lights",
+        "Azhagiri Nagar",
+        "Amir Mahal",
+        "Royapettah",
+        "Teynampet",
+        "Sathyamurthy Nagar",
+        "Alwarpet (North)",
+        "Alwarpet (South)",
+        "Vadapalani (West)",
+        "Vadapalani (East)",
+        "Kalaivanar Nagar"
+      ],
+      "assembly_constituency": "Thousand Lights/Chepauk/Teynampet",
+      "parliament_constituency": "Chennai Central"
+    },
+    "Zone_10_Kodambakkam": {
+      "wards": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "ward_names": [
+        "Navalar Nedunchezian Nagar (West)",
+        "Navalar Nedunchezian Nagar (East)",
+        "Ashok Nagar",
+        "M.G.R. Nagar",
+        "Kamaraj Nagar (North)",
+        "Kamaraj Nagar (South)",
+        "Thyagaraya Nagar",
+        "Rajaji Nagar",
+        "Virugambakkam (South)",
+        "Saligramam",
+        "Kodambakkam (North)",
+        "Kodambakkam (South)",
+        "Saidapet",
+        "Kumaran Nagar (North)",
+        "Kumaran Nagar (South)",
+        "Saidapet (West)"
+      ],
+      "assembly_constituency": "T. Nagar/Kodambakkam",
+      "parliament_constituency": "Chennai Central"
+    },
+    "Zone_11_Valasaravakkam": {
+      "wards": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "ward_names": [
+        "Kalaingar Karunanidhi Nagar",
+        "V O C Nagar",
+        "G D Naidu Nagar (East)",
+        "G. D Naidu Nagar (West)",
+        "Guindy (West)",
+        "Guindy (East)",
+        "Beemannapettai",
+        "Thiruvalluvar Nagar",
+        "Madavaperumal Puram",
+        "Karaneeswarpuram",
+        "Santhome",
+        "Mylapore",
+        "Avvai Nagar (South)"
+      ],
+      "assembly_constituency": "Valasaravakkam/Saidapet",
+      "parliament_constituency": "Chennai South"
+    },
+    "Zone_12_Alandur": {
+      "wards": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "ward_names": [
+        "Raja Annamalai Puram",
+        "Avvai Nagar (North)",
+        "Adyar (West)",
+        "Adyar (East)",
+        "Velachery",
+        "Thiruvanmiyur (West)",
+        "Thiruvanmiyur (East)",
+        "Besant Nagar",
+        "Urur",
+        "Adampakkam",
+        "Velachery West",
+        "Gandhi Salai"
+      ],
+      "assembly_constituency": "Alandur/Saidapet",
+      "parliament_constituency": "Chennai South"
+    },
+    "Zone_13_Adyar": {
+      "wards": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "ward_names": [
+        "Avvai Nagar (South)",
+        "Raja Annamalai Puram",
+        "Avvai Nagar (North)",
+        "Adyar (West)",
+        "Adyar (East)",
+        "Velachery",
+        "Thiruvanmiyur (West)",
+        "Thiruvanmiyur (East)",
+        "Besant Nagar",
+        "Urur",
+        "Adampakkam",
+        "Velachery West",
+        "Gandhi Salai"
+      ],
+      "assembly_constituency": "Saidapet/Mylapore/Velachery",
+      "parliament_constituency": "Chennai South"
+    },
+    "Zone_14_Perungudi": {
+      "wards": [
+        168,
+        169,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "ward_names": [
+        "Taramani",
+        "Ullagaram",
+        "Puzhuthivakkam",
+        "Kottivakkam",
+        "Pallikaranai",
+        "Palavakkam",
+        "Madipakkam",
+        "Jaladianpet",
+        "Neelangarai",
+        "Thoraipakkam",
+        "Injambakkam"
+      ],
+      "assembly_constituency": "Velachery/Alandur/Sholinganallur",
+      "parliament_constituency": "Chennai South"
+    },
+    "Zone_15_Sholinganallur": {
+      "wards": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "ward_names": [
+        "Karapakkam",
+        "Sholinganallur",
+        "Uthandi",
+        "Semmancheri",
+        "Navalur",
+        "Siruseri",
+        "Kelambakkam",
+        "Sithalapakkam",
+        "Medavakkam"
+      ],
+      "assembly_constituency": "Sholinganallur",
+      "parliament_constituency": "Chennai South"
+    }
+  },
+  "departments_complete": {
+    "Greater_Chennai_Corporation": {
+      "main_contact": "1913",
+      "email": "commissioner@chennaicorporation.gov.in",
+      "website": "chennaicorporation.gov.in",
+      "complaint_portal": "erp.chennaicorporation.gov.in/pgr/",
+      "mobile_app": "Namma Chennai App",
+      "services": [
+        "Birth/Death certificates",
+        "Property tax",
+        "Building approvals",
+        "Garbage collection",
+        "Road maintenance",
+        "Street lighting",
+        "Water drainage",
+        "Public health",
+        "Markets",
+        "Parks"
+      ],
+      "zone_offices": {
+        "Zone_1": {
+          "contact": "044-25992828",
+          "location": "Tiruvottiyur"
+        },
+        "Zone_2": {
+          "contact": "044-26375560",
+          "location": "Manali"
+        },
+        "Zone_3": {
+          "contact": "044-26171451",
+          "location": "Madhavaram"
+        },
+        "Zone_4": {
+          "contact": "044-25914849",
+          "location": "Tondiarpet"
+        },
+        "Zone_5": {
+          "contact": "044-25953285",
+          "location": "Royapuram"
+        },
+        "Zone_6": {
+          "contact": "044-24753265",
+          "location": "Thiru-Vi-Ka Nagar"
+        },
+        "Zone_7": {
+          "contact": "044-26570570",
+          "location": "Ambattur"
+        },
+        "Zone_8": {
+          "contact": "044-26215969",
+          "location": "Anna Nagar"
+        },
+        "Zone_9": {
+          "contact": "044-28340276",
+          "location": "Teynampet"
+        },
+        "Zone_10": {
+          "contact": "044-24894466",
+          "location": "Kodambakkam"
+        },
+        "Zone_11": {
+          "contact": "044-24610405",
+          "location": "Valasaravakkam"
+        },
+        "Zone_12": {
+          "contact": "044-24502575",
+          "location": "Alandur"
+        },
+        "Zone_13": {
+          "contact": "044-24516464",
+          "location": "Adyar"
+        },
+        "Zone_14": {
+          "contact": "044-24503939",
+          "location": "Perungudi"
+        },
+        "Zone_15": {
+          "contact": "044-24502575",
+          "location": "Sholinganallur"
+        }
+      }
+    },
+    "Chennai_Metro_Water": {
+      "main_contact": "044-4567-4567",
+      "complaint_cell": "044-4567-4567 (24x7)",
+      "website": "cmwssb.tn.gov.in",
+      "email": "cmwssb@tn.gov.in",
+      "head_office": "No.1, Pumping Station Road, Chintadripet, Chennai-02",
+      "services": [
+        "Water supply",
+        "Sewerage",
+        "Water tax",
+        "New connections",
+        "Complaints",
+        "Tanker services",
+        "Water quality testing"
+      ],
+      "area_divisions": {
+        "North": {
+          "zones": [
+            1,
+            2,
+            3
+          ],
+          "contact": "044-28451300 Extn.233",
+          "se_mobile": "8144931000"
+        },
+        "North_East": {
+          "zones": [
+            4,
+            5,
+            6
+          ],
+          "contact": "044-28451300 Extn.213",
+          "se_mobile": "8144945000"
+        },
+        "Central": {
+          "zones": [
+            7,
+            8,
+            9
+          ],
+          "contact": "044-28451300 Extn.212",
+          "se_mobile": "8144934000"
+        },
+        "South_West": {
+          "zones": [
+            10,
+            11,
+            12
+          ],
+          "contact": "044-28451300 Extn.386",
+          "se_mobile": "8144930999"
+        },
+        "South": {
+          "zones": [
+            13,
+            14,
+            15
+          ],
+          "contact": "044-28451300 Extn.211",
+          "se_mobile": "8144923000"
+        }
+      }
+    },
+    "TANGEDCO": {
+      "main_contact": "94987-94987",
+      "emergency_contact": "1912",
+      "website": "tangedco.gov.in",
+      "complaint_portal": "www.tangedco.tn.gov.in",
+      "whatsapp_complaints": "94458508111",
+      "services": [
+        "Electricity supply",
+        "Power failures",
+        "Billing complaints",
+        "New connections",
+        "Meter issues",
+        "Safety complaints"
+      ],
+      "compensation_policy": "Rs. 50 per 6 hours delay for power restoration",
+      "response_time_urban": "1 hour",
+      "circle_offices": {
+        "Chennai_North": {
+          "areas": [
+            "Thiruvottiyur",
+            "Manali",
+            "Madhavaram",
+            "Tondiarpet",
+            "Royapuram",
+            "Anna Nagar",
+            "Ambattur"
+          ],
+          "contact": "044-26214427",
+          "foc_centers": [
+            {
+              "area": "Arumbakkam",
+              "contact": "044-23631714",
+              "mobile": "9445850381"
+            },
+            {
+              "area": "Anna Nagar",
+              "contact": "044-26214427",
+              "mobile": "9445850381"
+            },
+            {
+              "area": "Ambattur",
+              "contact": "044-26242004",
+              "mobile": "9445850392"
+            },
+            {
+              "area": "Avadi",
+              "contact": "044-26384010",
+              "mobile": "9445850397"
+            }
+          ]
+        },
+        "Chennai_Central": {
+          "areas": [
+            "Teynampet",
+            "Kodambakkam",
+            "Valasaravakkam"
+          ],
+          "contact": "044-28340276",
+          "foc_centers": [
+            {
+              "area": "Chetpet",
+              "contact": "044-26414398",
+              "mobile": "9445850378"
+            },
+            {
+              "area": "Koyambedu",
+              "contact": "044-24799171",
+              "mobile": "9445850383"
+            },
+            {
+              "area": "Shenoy Nagar",
+              "contact": "044-26214427",
+              "mobile": "9445850380"
+            }
+          ]
+        },
+        "Chennai_South": {
+          "areas": [
+            "Alandur",
+            "Adyar",
+            "Perungudi",
+            "Sholinganallur"
+          ],
+          "contact": "044-24913001",
+          "foc_centers": [
+            {
+              "area": "Velachery",
+              "contact": "044-22450001",
+              "mobile": "9445850439"
+            },
+            {
+              "area": "Alandur",
+              "contact": "044-22321755",
+              "mobile": "9445850441"
+            },
+            {
+              "area": "Adyar",
+              "contact": "044-24913001",
+              "mobile": "9445850438"
+            },
+            {
+              "area": "Guindy",
+              "contact": "044-22342300",
+              "mobile": "9445850442"
+            }
+          ]
+        }
+      }
+    },
+    "TNSTC": {
+      "main_contact": "1800-599-1500",
+      "whatsapp": "94450-14448",
+      "head_office": "Thiruvalluvar House, Pallavan Salai, Chennai - 600002",
+      "website": "tnstc.in",
+      "services": [
+        "Bus transport",
+        "Route complaints",
+        "Driver/conductor issues",
+        "Fare disputes",
+        "Lost items",
+        "Service quality"
+      ],
+      "depots": {
+        "Chennai_Division_1": [
+          "Koyambedu",
+          "Anna Nagar",
+          "Ambattur",
+          "Poonamallee"
+        ],
+        "Chennai_Division_2": [
+          "Broadway",
+          "T.Nagar",
+          "Adyar",
+          "Velachery"
+        ],
+        "Chennai_Division_3": [
+          "Tambaram",
+          "Chrompet",
+          "Pallavaram",
+          "Perungalathur"
+        ]
+      }
+    }
+  },
+  "common_issues_database": {
+    "water_supply": {
+      "keywords": [
+        "water",
+        "supply",
+        "shortage",
+        "leak",
+        "pipe",
+        "connection",
+        "pressure",
+        "quality",
+        "tanker"
+      ],
+      "department": "Chennai Metro Water",
+      "typical_response_time": "24 hours",
+      "escalation_path": "Area Engineer -> Executive Engineer -> Superintending Engineer -> Chief Engineer",
+      "common_areas": [
+        "Adyar",
+        "Velachery",
+        "Anna Nagar",
+        "Thiruvottiyur",
+        "Sholinganallur"
+      ],
+      "seasonal_issues": "Summer months (March-June) - increased complaints"
+    },
+    "garbage_collection": {
+      "keywords": [
+        "garbage",
+        "waste",
+        "collection",
+        "bin",
+        "sweeping",
+        "cleaning",
+        "disposal"
+      ],
+      "department": "Greater Chennai Corporation",
+      "private_operators": {
+        "Ramky_Enviro": {
+          "zones": [
+            1,
+            2,
+            3,
+            7
+          ]
+        },
+        "Urbaser_Sumeet": {
+          "zones": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        "GCC_Direct": {
+          "zones": [
+            4,
+            5,
+            6,
+            8
+          ]
+        }
+      },
+      "collection_schedule": "Daily door-to-door collection",
+      "complaint_methods": [
+        "1913",
+        "Namma Chennai App",
+        "Zone offices"
+      ]
+    },
+    "electricity": {
+      "keywords": [
+        "power",
+        "electricity",
+        "outage",
+        "billing",
+        "meter",
+        "connection",
+        "voltage",
+        "transformer"
+      ],
+      "department": "TANGEDCO",
+      "response_times": {
+        "emergency": "1 hour",
+        "routine_repairs": "24 hours",
+        "new_connections": "7-15 days"
+      },
+      "compensation": "Rs. 50 per 6 hours delay for restoration",
+      "complaint_channels": [
+        "94987-94987",
+        "1912",
+        "Online portal",
+        "WhatsApp: 94458508111"
+      ]
+    },
+    "roads_infrastructure": {
+      "keywords": [
+        "road",
+        "pothole",
+        "street",
+        "repair",
+        "maintenance",
+        "signal",
+        "traffic"
+      ],
+      "department": "Greater Chennai Corporation",
+      "reporting_methods": [
+        "1913",
+        "Namma Chennai App",
+        "Zone offices"
+      ],
+      "categories": [
+        "Potholes",
+        "Street lighting",
+        "Traffic signals",
+        "Footpaths",
+        "Drainage"
+      ]
+    },
+    "transport": {
+      "keywords": [
+        "bus",
+        "transport",
+        "route",
+        "fare",
+        "conductor",
+        "driver",
+        "schedule"
+      ],
+      "department": "TNSTC",
+      "complaint_types": [
+        "Route issues",
+        "Fare disputes",
+        "Staff behavior",
+        "Service quality",
+        "Lost items"
+      ],
+      "response_mechanism": "Call center -> Depot -> Route investigation"
+    }
+  }
+}
